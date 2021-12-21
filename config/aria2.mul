@@ -1,0 +1,13 @@
+split=10
+continue
+max-connection-per-server=10
+check-certificate=false
+summary-interval=120
+min-split-size=5M
+file-allocation=none
+http-user=
+http-passwd==
+max-concurrent-downloads=1
+
+
+
